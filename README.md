@@ -6,8 +6,6 @@
 
 ## Description
 
-The example plugin prints "example" on every query that got handled by the server. It serves as
-documentation for writing CoreDNS plugins.
 
 ## Compilation
 
